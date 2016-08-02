@@ -3,5 +3,4 @@
 ## This is a test
 
 All these changes...
-
-MOAR CHANGES.
+This is another change.
